@@ -1,6 +1,6 @@
 # postgresql 9.5 script for Debian 8.3 (Jessie) x64
 
-For use on a clean Debian 8.x64 box only.
+For use on a clean Debian 8.x64 box only!!
 
 This script installs:
 
@@ -57,8 +57,8 @@ The script also creates the following:
 Usage: 
 
 1. Download the script to a clean Debian 8.x64 box
-2. Make it executable <code> chmod 755 pgsql-9.5-debian-8-3-64.sh</code>
-3. Execute it <code>./pgsql-9.5-debian-8-3-64.sh</code>
+2. Make it executable <code> chmod 755 pgsql-9.5-debian-8-3-x-64.sh</code>
+3. Execute it <code>./pgsql-9.5-debian-8-3-x-64.sh</code>
 
 
 
